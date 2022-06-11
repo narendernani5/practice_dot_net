@@ -1,0 +1,8 @@
+D:\Narender\C#\practice\Practice\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+D:\Narender\C#\practice\Practice\Collections\obj\Debug\Collections.csproj.SuggestedBindingRedirects.cache
+D:\Narender\C#\practice\Practice\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+D:\Narender\C#\practice\Practice\Collections\bin\Debug\Collections.exe.config
+D:\Narender\C#\practice\Practice\Collections\bin\Debug\Collections.exe
+D:\Narender\C#\practice\Practice\Collections\bin\Debug\Collections.pdb
+D:\Narender\C#\practice\Practice\Collections\obj\Debug\Collections.exe
+D:\Narender\C#\practice\Practice\Collections\obj\Debug\Collections.pdb

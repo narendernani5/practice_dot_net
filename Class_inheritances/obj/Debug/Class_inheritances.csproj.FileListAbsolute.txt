@@ -1,0 +1,8 @@
+D:\Narender\C#\practice\Practice\Class_inheritances\bin\Debug\Class_inheritances.exe.config
+D:\Narender\C#\practice\Practice\Class_inheritances\bin\Debug\Class_inheritances.exe
+D:\Narender\C#\practice\Practice\Class_inheritances\bin\Debug\Class_inheritances.pdb
+D:\Narender\C#\practice\Practice\Class_inheritances\obj\Debug\Class_inheritances.csproj.AssemblyReference.cache
+D:\Narender\C#\practice\Practice\Class_inheritances\obj\Debug\Class_inheritances.csproj.SuggestedBindingRedirects.cache
+D:\Narender\C#\practice\Practice\Class_inheritances\obj\Debug\Class_inheritances.csproj.CoreCompileInputs.cache
+D:\Narender\C#\practice\Practice\Class_inheritances\obj\Debug\Class_inheritances.exe
+D:\Narender\C#\practice\Practice\Class_inheritances\obj\Debug\Class_inheritances.pdb

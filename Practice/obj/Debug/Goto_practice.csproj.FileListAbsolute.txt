@@ -1,0 +1,8 @@
+D:\Narender\C#\practice\practice_dot_net\Practice\bin\Debug\Practice.exe.config
+D:\Narender\C#\practice\practice_dot_net\Practice\bin\Debug\Practice.exe
+D:\Narender\C#\practice\practice_dot_net\Practice\bin\Debug\Practice.pdb
+D:\Narender\C#\practice\practice_dot_net\Practice\obj\Debug\Goto_practice.csproj.AssemblyReference.cache
+D:\Narender\C#\practice\practice_dot_net\Practice\obj\Debug\Goto_practice.csproj.SuggestedBindingRedirects.cache
+D:\Narender\C#\practice\practice_dot_net\Practice\obj\Debug\Goto_practice.csproj.CoreCompileInputs.cache
+D:\Narender\C#\practice\practice_dot_net\Practice\obj\Debug\Practice.exe
+D:\Narender\C#\practice\practice_dot_net\Practice\obj\Debug\Practice.pdb

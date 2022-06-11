@@ -1,0 +1,8 @@
+D:\Narender\C#\practice\Practice\Classes_Virtual_abtract_interfaces\bin\Debug\Classes_Virtual_abtract_interfaces.exe.config
+D:\Narender\C#\practice\Practice\Classes_Virtual_abtract_interfaces\bin\Debug\Classes_Virtual_abtract_interfaces.exe
+D:\Narender\C#\practice\Practice\Classes_Virtual_abtract_interfaces\bin\Debug\Classes_Virtual_abtract_interfaces.pdb
+D:\Narender\C#\practice\Practice\Classes_Virtual_abtract_interfaces\obj\Debug\Classes_Virtual_abtract_interfaces.csproj.AssemblyReference.cache
+D:\Narender\C#\practice\Practice\Classes_Virtual_abtract_interfaces\obj\Debug\Classes_Virtual_abtract_interfaces.csproj.SuggestedBindingRedirects.cache
+D:\Narender\C#\practice\Practice\Classes_Virtual_abtract_interfaces\obj\Debug\Classes_Virtual_abtract_interfaces.csproj.CoreCompileInputs.cache
+D:\Narender\C#\practice\Practice\Classes_Virtual_abtract_interfaces\obj\Debug\Classes_Virtual_abtract_interfaces.exe
+D:\Narender\C#\practice\Practice\Classes_Virtual_abtract_interfaces\obj\Debug\Classes_Virtual_abtract_interfaces.pdb
