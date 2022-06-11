@@ -6,3 +6,11 @@ D:\Narender\C#\practice\Practice\Class_inheritances\obj\Debug\Class_inheritances
 D:\Narender\C#\practice\Practice\Class_inheritances\obj\Debug\Class_inheritances.csproj.CoreCompileInputs.cache
 D:\Narender\C#\practice\Practice\Class_inheritances\obj\Debug\Class_inheritances.exe
 D:\Narender\C#\practice\Practice\Class_inheritances\obj\Debug\Class_inheritances.pdb
+C:\Users\nb44861\Desktop\c#\Class_inheritances\bin\Debug\Class_inheritances.exe.config
+C:\Users\nb44861\Desktop\c#\Class_inheritances\bin\Debug\Class_inheritances.exe
+C:\Users\nb44861\Desktop\c#\Class_inheritances\bin\Debug\Class_inheritances.pdb
+C:\Users\nb44861\Desktop\c#\Class_inheritances\obj\Debug\Class_inheritances.csproj.AssemblyReference.cache
+C:\Users\nb44861\Desktop\c#\Class_inheritances\obj\Debug\Class_inheritances.csproj.SuggestedBindingRedirects.cache
+C:\Users\nb44861\Desktop\c#\Class_inheritances\obj\Debug\Class_inheritances.csproj.CoreCompileInputs.cache
+C:\Users\nb44861\Desktop\c#\Class_inheritances\obj\Debug\Class_inheritances.exe
+C:\Users\nb44861\Desktop\c#\Class_inheritances\obj\Debug\Class_inheritances.pdb
